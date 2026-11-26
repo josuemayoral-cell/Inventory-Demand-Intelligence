@@ -1,0 +1,6 @@
+store_id,total_products,critical_products,average_coverage,critical_rate_pct
+S001,20,20,1.9010000000000002,100.0
+S002,20,16,2.0665,80.0
+S003,20,14,2.0669999999999997,70.0
+S004,20,16,1.685,80.0
+S005,20,18,2.0995,90.0
